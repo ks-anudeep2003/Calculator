@@ -1,0 +1,16 @@
+cal---> dom events functions 
+
+
+events : it is nothing but an action 
+  Types of events 
+   MouseEvents : mouseover onclick ondblclick onmouseenter etc..
+   keyboardevents : onkeypress onkeydown onkeyup onenter 
+   formevents  : onsumbit onchange onblur onfocus etc.
+   browserevents :onscroll reload resize ondocumnetcontentload 
+
+
+ eventHandlers : nothing but functions  which performs certain actions when specific event id fired
+
+1.directly  attaching the eventHandlers to html element through the attributes --onclick ondblclick 
+2.attaching the eventHandlers to dom objects 
+3.through addeventlisteners 
